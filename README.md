@@ -1,5 +1,7 @@
 # Combien coûte Halloween ?
 
+![Visites de cette page](https://visitor-badge.laobi.icu/badge?page_id=vincentchabran.combien-coute-halloween.pages)
+
 **85 €** : c'est le budget moyen prévu par les Français pour Halloween. Les hommes dépensent
 quasiment le double des femmes — **125 €** contre **64 €**.
 
