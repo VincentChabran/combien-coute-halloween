@@ -1,3 +1,7 @@
+---
+image: https://vincentchabran.github.io/combien-coute-halloween/pin.png
+---
+
 # Combien coûte Halloween ?
 
 ![Visites de cette page](https://visitor-badge.laobi.icu/badge?page_id=vincentchabran.combien-coute-halloween.pages)
